@@ -1,0 +1,6 @@
+Matrix size: 10 Time: 2.0999e-05 Processes: 1
+Matrix size: 50 Time: 0.000503746 Processes: 1
+Matrix size: 100 Time: 0.00374585 Processes: 1
+Matrix size: 200 Time: 0.0291919 Processes: 1
+Matrix size: 500 Time: 0.58709 Processes: 1
+Matrix size: 1000 Time: 5.24412 Processes: 1
